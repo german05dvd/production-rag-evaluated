@@ -1,0 +1,9 @@
+chroma/
+*.pyc
+__pycache__/
+*.bin
+venv/
+env/
+bibliografia/
+documentos/estructura.txt
+temp_*
